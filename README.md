@@ -1,11 +1,5 @@
-# Pohja Ohjelmointi 1 -kurssin harjoitustöiden GIT-repoille.
+Ohjelmointi 1 -kurssilla syksyllä 2020 toteutettu harjoitustyö. Ohjelmointikielenä C#. Peli on tehty tiimityöskentelynä Jesse Korolaisen kanssa ja alun perin versionhallintaan käytettiin Gitlab-ympäristöä.
 
-Tämä on pohja Ohjelmointi 1 -kurssin harjoitustöiden Git-repoille. 
-Opiskelija forkkaa tämän repon omaa harjoitustyötään varten. 
-`fork`-toiminto löytyy sivun yläreunasta.
+Pelin idea:
 
-Muokkaa gitlab.jyu.fi-palvelussa oman projektisi asetuksia, kuten projektin nimeä
-ja projektin kuvausta kohdasta Settings. 
-
-Lue Git-versiohallinnan tarkemmat käyttöohjeet TIMistä: <https://tim.jyu.fi/view/kurssit/tie/ohj1/harjoitustyo/git>
-
+Koronavirus pyrkii pääsemään kehoon ja pelaaja pyrkii estämään tämän asettamalla virusta tuhoavia ”tykkitorneja” viruksen reitille. Jos virus saavuttaa maalin, häviää pelaaja pelin eli saa koronaviruksen. Pelissä on laskuri, joka laskee montako päivää pelaaja selviää saamatta koronavirustaruntaa.
